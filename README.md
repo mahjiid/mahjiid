@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahjiid</h1>
 <h3 align="center">A passionate Data Geek from Nigeria</h3>
 
+##
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+##
 <p align="left"> <a href="https://twitter.com/https://x.com/mahjiid" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/mahjiid?logo=twitter&style=for-the-badge" alt="https://x.com/mahjiid" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Data Science,AI&ML**
