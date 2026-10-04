@@ -1,25 +1,57 @@
-<h1 align="center">Hi 👋, I'm Mahjiid </h1>
-<h3 align="center">A passionate Data Geek </h3>
+# Abdulmajeed Olasunkanmi Abdulrasheed
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+**Computer Engineer | Computer Vision & AI Data Annotation | Semiconductor Process Engineering | Embedded Systems**
 
-<p align="left"> <a href="https://twitter.com/https://x.com/mahjiid" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/mahjiid?logo=twitter&style=for-the-badge" alt="https://x.com/mahjiid" /></a> </p>
+I build and evaluate technical systems across computer vision, embedded hardware, AI workflows, and semiconductor manufacturing. I am especially interested in human-data work for AI and robotics where careful observation, consistent labeling, quality assurance, and clear technical writing matter.
 
-- 👯 I’m looking to collaborate on **Data Science,AI&ML**
+## AI data & computer-vision evidence
 
-- 📫 How to reach me **miloboy188@gmail.com**
+### Road Anomaly Detection System
+- Prepared and reviewed an Edge Impulse object-detection dataset with **711 labeled images and 795 bounding boxes**.
+- Worked with pothole/bump classes, multi-object scenes, annotation metadata, training/test splits, and dataset QA.
+- Connected labeled data to an end-to-end **YOLOv3 / Darknet / OpenCV** training workflow.
+- Focused on label consistency and the downstream effect of annotation quality on model behavior.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/mahjiid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mahjiid" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdulrasheed-abdulmajeed-6a75a712b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulrasheed-abdulmajeed-6a75a712b/" height="30" width="40" /></a>
-<a href="https://instagram.com/mahjiid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahjiid" height="30" width="40" /></a>
-<a href="https://medium.com/@mahjiid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahjiid" height="30" width="40" /></a>
-</p>
+➡️ [View the annotation-focused project](https://github.com/mahjiid/Anomalies-Detection-System)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Engineering QA background
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahjiid&" alt="mahjiid" /></p>
+I currently work in semiconductor packaging/testing and process engineering, with hands-on exposure to:
+- visual inspection and defect tracking
+- process validation and quality checks
+- die attach, wire bonding, encapsulation, and testing
+- yield/SPC fundamentals
+- documenting observations and following defined process criteria
+
+That precision-oriented background transfers well to robotics and human-activity video evaluation.
+
+## Core skills
+
+**Annotation / AI data:** image annotation, bounding boxes, dataset QA, annotation review, action-boundary methodology, written evaluation, rubric-based decisions
+
+**Computer vision / AI:** Python, OpenCV, YOLO, Edge Impulse, ML workflows
+
+**Engineering:** embedded systems, ESP32/STM32, C/C++, semiconductor packaging/testing, process quality
+
+**Automation / software:** Python, APIs, n8n, Git/GitHub
+
+## Current focus
+
+- Video and image annotation for AI training
+- Robotics / embodied-AI evaluation
+- Computer-vision dataset quality
+- AI agent and automation engineering
+- Semiconductor process engineering
+
+## Featured repositories
+
+- [Anomalies-Detection-System](https://github.com/mahjiid/Anomalies-Detection-System) — annotation + computer vision evidence
+- [ai201-project2-fitfindr-starter-v2026](https://github.com/mahjiid/ai201-project2-fitfindr-starter-v2026) — AI agent engineering
+- [OpenROAD](https://github.com/mahjiid/OpenROAD) — semiconductor/open-source contribution activity
+- [siliconcompiler](https://github.com/mahjiid/siliconcompiler) — semiconductor tooling contribution activity
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/abdulrasheed-abdulmajeed
+- Email: abdulrasheed.amajeed@gmail.com
+- Location: Nigeria
