@@ -27,9 +27,9 @@ That precision-oriented background transfers well to robotics and human-activity
 
 ## Core skills
 
-**Annotation / AI data:** image annotation, bounding boxes, dataset QA, annotation review, action-boundary methodology, written evaluation, rubric-based decisions
+**Annotation / AI data:** LabelImg, image annotation, bounding boxes, dataset QA, annotation review, action-boundary methodology, written evaluation, rubric-based decisions
 
-**Computer vision / AI:** Python, OpenCV, YOLO, Edge Impulse, ML workflows
+**Computer vision / AI:** LabelImg, Python, OpenCV, YOLO, Edge Impulse, ML workflows
 
 **Engineering:** embedded systems, ESP32/STM32, C/C++, semiconductor packaging/testing, process quality
 
