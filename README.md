@@ -1,57 +1,45 @@
-# Abdulmajeed Olasunkanmi Abdulrasheed
+<div align="center">
 
-**Computer Engineer | Computer Vision & AI Data Annotation | Semiconductor Process Engineering | Embedded Systems**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahjiid/mahjiid/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahjiid/mahjiid/main/assets/hero-light.svg">
+  <img src="https://raw.githubusercontent.com/mahjiid/mahjiid/main/assets/hero-light.svg" alt="Mahjiid — Abdulmajeed Olasunkanmi Abdulrasheed. Computer engineer working across AI, software, embedded systems and semiconductors." width="100%">
+</picture>
 
-I build and evaluate technical systems across computer vision, embedded hardware, AI workflows, and semiconductor manufacturing. I am especially interested in human-data work for AI and robotics where careful observation, consistent labeling, quality assurance, and clear technical writing matter.
+<p>
+  <a href="https://olamil.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/abdulrasheed-abdulmajeed-6a75a712b">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/mahjiid?tab=repositories">Projects</a> &nbsp;·&nbsp;
+  <a href="mailto:abdulrasheed.amajeed@gmail.com">Email</a>
+</p>
 
-## AI data & computer-vision evidence
+</div>
 
-### Road Anomaly Detection System
-- Prepared and reviewed an Edge Impulse object-detection dataset with **711 labeled images and 795 bounding boxes**.
-- Worked with pothole/bump classes, multi-object scenes, annotation metadata, training/test splits, and dataset QA.
-- Connected labeled data to an end-to-end **YOLOv3 / Darknet / OpenCV** training workflow.
-- Focused on label consistency and the downstream effect of annotation quality on model behavior.
+### `01 / SELECTED WORK`
 
-➡️ [View the annotation-focused project](https://github.com/mahjiid/Anomalies-Detection-System)
+| Project | What I built / worked on |
+| :--- | :--- |
+| [**FitFindr**](https://github.com/mahjiid/ai201-project2-fitfindr-starter-v2026) | AI-assisted thrift search, structured tool calls, item matching and outfit recommendations. |
+| [**Road Anomaly Detection**](https://github.com/mahjiid/Anomalies-Detection-System) | End-to-end computer vision and dataset QA. Includes **711 labeled images** and **795 bounding boxes**. |
 
-## Engineering QA background
+### `02 / WHAT I DO`
 
-I currently work in semiconductor packaging/testing and process engineering, with hands-on exposure to:
-- visual inspection and defect tracking
-- process validation and quality checks
-- die attach, wire bonding, encapsulation, and testing
-- yield/SPC fundamentals
-- documenting observations and following defined process criteria
+**AI & automation** — Agent workflows, applied machine learning, computer vision, APIs and practical AI products.
 
-That precision-oriented background transfers well to robotics and human-activity video evaluation.
+**Software engineering** — Python, TypeScript, React / React Native, Node.js, Docker and PostgreSQL.
 
-## Core skills
+**Embedded & semiconductor systems** — ESP32, C/C++, die attach, wire bonding, packaging and process-quality engineering.
 
-**Annotation / AI data:** LabelImg, image annotation, bounding boxes, dataset QA, annotation review, action-boundary methodology, written evaluation, rubric-based decisions
+### `03 / CONTRIBUTION TRAIL`
 
-**Computer vision / AI:** LabelImg, Python, OpenCV, YOLO, Edge Impulse, ML workflows
+<div align="center">
 
-**Engineering:** embedded systems, ESP32/STM32, C/C++, semiconductor packaging/testing, process quality
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahjiid/mahjiid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahjiid/mahjiid/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/mahjiid/mahjiid/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake for mahjiid" width="100%">
+</picture>
 
-**Automation / software:** Python, APIs, n8n, Git/GitHub
+<sub>Based in Nigeria · Engineering useful technology, one iteration at a time.</sub>
 
-## Current focus
-
-- Video and image annotation for AI training
-- Robotics / embodied-AI evaluation
-- Computer-vision dataset quality
-- AI agent and automation engineering
-- Semiconductor process engineering
-
-## Featured repositories
-
-- [Anomalies-Detection-System](https://github.com/mahjiid/Anomalies-Detection-System) — annotation + computer vision evidence
-- [ai201-project2-fitfindr-starter-v2026](https://github.com/mahjiid/ai201-project2-fitfindr-starter-v2026) — AI agent engineering
-- [OpenROAD](https://github.com/mahjiid/OpenROAD) — semiconductor/open-source contribution activity
-- [siliconcompiler](https://github.com/mahjiid/siliconcompiler) — semiconductor tooling contribution activity
-
-## Contact
-
-- LinkedIn: https://linkedin.com/in/abdulrasheed-abdulmajeed
-- Email: abdulrasheed.amajeed@gmail.com
-- Location: Nigeria
+</div>
