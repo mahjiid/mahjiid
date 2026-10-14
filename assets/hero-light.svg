@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="742" viewBox="0 0 1120 742" role="img" aria-label="Mahjiid, Abdulmajeed Olasunkanmi Abdulrasheed. Computer engineer building AI systems, software products, embedded technology and semiconductor processes">
+<title>Mahjiid — Engineer, maker, systems builder</title><desc>A clean engineering command dashboard with an animated circuit-board illustration, technical specializations, projects, and coding technologies.</desc>
+<style>
+    text{font-family:Inter,Arial,Helvetica,sans-serif}
+    .mono{font-family:Consolas,Menlo,"Liberation Mono",monospace}
+    .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 3.2s ease-in-out infinite}
+    .trace{stroke-dasharray:9 12;animation:dash 17s linear infinite}
+    .scan{animation:scan 7s ease-in-out infinite}
+    .blink{animation:blink 1.1s steps(1,end) infinite}
+    .appear{animation:appear 1.1s ease-out both}
+    @keyframes dash{to{stroke-dashoffset:-252}}
+    @keyframes pulse{0%,100%{opacity:.38;transform:scale(.83)}50%{opacity:1;transform:scale(1.14)}}
+    @keyframes scan{0%,100%{opacity:.15}50%{opacity:.7}}
+    @keyframes blink{50%{opacity:0}}
+    @keyframes appear{from{opacity:.4;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+    @media(prefers-reduced-motion:reduce){.pulse,.trace,.scan,.blink,.appear{animation:none}}
+  </style>
+<rect x="0" y="0" width="1120" height="742" rx="20" fill="#F5F8F5" stroke="none" />
+<rect x="1" y="1" width="1118" height="740" rx="20" fill="none" stroke="#C5DAD6" />
+<rect x="25" y="26" width="9" height="9" rx="3" fill="#0D826C" stroke="none" />
+<text x="44" y="36" font-size="12" fill="#172D32" font-weight="700" class="mono" letter-spacing="1.4">MAHJIID  /  PROFILE SYSTEM</text>
+<text x="1089" y="36" font-size="11" fill="#526E76" font-weight="500" class="mono" text-anchor="end" letter-spacing=".8">BUILDING THE USEFUL  •  NG</text>
+<line x1="25" y1="55" x2="1095" y2="55" stroke="#C5DAD6" stroke-width="1" />
+<rect x="25" y="75" width="434" height="569" rx="14" fill="#FFFFFF" stroke="#C5DAD6" />
+<text x="44" y="103" font-size="12" fill="#526E76" font-weight="650" class="mono" letter-spacing="1.0">01  /  SYSTEM BLUEPRINT</text>
+<rect x="43" y="118" width="395" height="477" rx="8" fill="#F5F8F5" stroke="#C5DAD6" />
+<line x1="57" y1="119" x2="57" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="83" y1="119" x2="83" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="109" y1="119" x2="109" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="135" y1="119" x2="135" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="161" y1="119" x2="161" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="187" y1="119" x2="187" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="213" y1="119" x2="213" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="239" y1="119" x2="239" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="265" y1="119" x2="265" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="291" y1="119" x2="291" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="317" y1="119" x2="317" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="343" y1="119" x2="343" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="369" y1="119" x2="369" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="395" y1="119" x2="395" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="421" y1="119" x2="421" y2="594" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="129" x2="437" y2="129" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="155" x2="437" y2="155" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="181" x2="437" y2="181" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="207" x2="437" y2="207" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="233" x2="437" y2="233" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="259" x2="437" y2="259" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="285" x2="437" y2="285" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="311" x2="437" y2="311" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="337" x2="437" y2="337" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="363" x2="437" y2="363" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="389" x2="437" y2="389" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="415" x2="437" y2="415" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="441" x2="437" y2="441" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="467" x2="437" y2="467" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="493" x2="437" y2="493" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="519" x2="437" y2="519" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="545" x2="437" y2="545" stroke="#E0ECE9" stroke-width="0.75" />
+<line x1="44" y1="571" x2="437" y2="571" stroke="#E0ECE9" stroke-width="0.75" />
+<path d="M66 125H49V142" fill="none" stroke="#0D826C" stroke-width="1.7"/>
+<path d="M415 125H432V142" fill="none" stroke="#0D826C" stroke-width="1.7"/>
+<path d="M66 589H49V572" fill="none" stroke="#0D826C" stroke-width="1.7"/>
+<path d="M415 589H432V572" fill="none" stroke="#0D826C" stroke-width="1.7"/>
+<circle cx="241" cy="354" r="117" fill="none" stroke="#C5DAD6" stroke-width="1.3" stroke-dasharray="5 12" opacity="0.7"/>
+<circle cx="241" cy="354" r="163" fill="none" stroke="#C5DAD6" stroke-width="1.3" stroke-dasharray="2 10" opacity="0.6"/>
+<circle cx="241" cy="354" r="197" fill="none" stroke="#C5DAD6" stroke-width="1.3" stroke-dasharray="7 15" opacity="0.4"/>
+<path d="M170 310 H130 L105 280 H78" fill="none" stroke="#0D826C" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+<path class="trace" d="M170 310 H130 L105 280 H78" fill="none" stroke="#0D826C" stroke-width="2.4" stroke-linecap="round" opacity=".6" style="animation-delay:-0s"/>
+<circle class="pulse" cx="78" cy="280" r="5.5" fill="#0D826C" style="animation-delay:-0s"/>
+<circle cx="78" cy="280" r="9" fill="none" stroke="#C5DAD6" stroke-width="1"/>
+<path d="M170 345 H113 L94 360 H67" fill="none" stroke="#85A2A8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+<circle class="pulse" cx="67" cy="360" r="4" fill="#BC622B" style="animation-delay:-0.26s"/>
+<circle cx="67" cy="360" r="9" fill="none" stroke="#C5DAD6" stroke-width="1"/>
+<path d="M170 393 H136 L114 421 H75" fill="none" stroke="#85A2A8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+<path class="trace" d="M170 393 H136 L114 421 H75" fill="none" stroke="#0D826C" stroke-width="2.4" stroke-linecap="round" opacity=".6" style="animation-delay:-2.2s"/>
+<circle class="pulse" cx="75" cy="421" r="4" fill="#BC622B" style="animation-delay:-0.52s"/>
+<circle cx="75" cy="421" r="9" fill="none" stroke="#C5DAD6" stroke-width="1"/>
+<path d="M210 284 V242 L184 217 V185" fill="none" stroke="#0D826C" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+<circle class="pulse" cx="184" cy="185" r="5.5" fill="#0D826C" style="animation-delay:-0.78s"/>
+<circle cx="184" cy="185" r="9" fill="none" stroke="#C5DAD6" stroke-width="1"/>
+<path d="M255 284 V207 L275 187" fill="none" stroke="#85A2A8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+<path class="trace" d="M255 284 V207 L275 187" fill="none" stroke="#0D826C" stroke-width="2.4" stroke-linecap="round" opacity=".6" style="animation-delay:-4.4s"/>
+<circle class="pulse" cx="275" cy="187" r="4" fill="#BC622B" style="animation-delay:-1.04s"/>
+<circle cx="275" cy="187" r="9" fill="none" stroke="#C5DAD6" stroke-width="1"/>
+<path d="M285 284 V244 L323 212 H366" fill="none" stroke="#85A2A8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+<circle class="pulse" cx="366" cy="212" r="4" fill="#BC622B" style="animation-delay:-1.3s"/>
+<circle cx="366" cy="212" r="9" fill="none" stroke="#C5DAD6" stroke-width="1"/>
+<path d="M312 308 H358 L380 278 H413" fill="none" stroke="#0D826C" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+<path class="trace" d="M312 308 H358 L380 278 H413" fill="none" stroke="#0D826C" stroke-width="2.4" stroke-linecap="round" opacity=".6" style="animation-delay:-6.6000000000000005s"/>
+<circle class="pulse" cx="413" cy="278" r="5.5" fill="#0D826C" style="animation-delay:-1.56s"/>
+<circle cx="413" cy="278" r="9" fill="none" stroke="#C5DAD6" stroke-width="1"/>
+<path d="M312 354 H398 L421 338" fill="none" stroke="#85A2A8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+<circle class="pulse" cx="421" cy="338" r="4" fill="#BC622B" style="animation-delay:-1.82s"/>
+<circle cx="421" cy="338" r="9" fill="none" stroke="#C5DAD6" stroke-width="1"/>
+<path d="M312 397 H349 L384 433 H412" fill="none" stroke="#85A2A8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+<path class="trace" d="M312 397 H349 L384 433 H412" fill="none" stroke="#0D826C" stroke-width="2.4" stroke-linecap="round" opacity=".6" style="animation-delay:-8.8s"/>
+<circle class="pulse" cx="412" cy="433" r="4" fill="#BC622B" style="animation-delay:-2.08s"/>
+<circle cx="412" cy="433" r="9" fill="none" stroke="#C5DAD6" stroke-width="1"/>
+<path d="M204 426 V478 L166 514 V550" fill="none" stroke="#0D826C" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+<circle class="pulse" cx="166" cy="550" r="5.5" fill="#0D826C" style="animation-delay:-2.34s"/>
+<circle cx="166" cy="550" r="9" fill="none" stroke="#C5DAD6" stroke-width="1"/>
+<path d="M249 426 V500 L265 517 V561" fill="none" stroke="#85A2A8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+<path class="trace" d="M249 426 V500 L265 517 V561" fill="none" stroke="#0D826C" stroke-width="2.4" stroke-linecap="round" opacity=".6" style="animation-delay:-11s"/>
+<circle class="pulse" cx="265" cy="561" r="4" fill="#BC622B" style="animation-delay:-2.6s"/>
+<circle cx="265" cy="561" r="9" fill="none" stroke="#C5DAD6" stroke-width="1"/>
+<path d="M287 426 V482 L334 511 H392" fill="none" stroke="#85A2A8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+<circle class="pulse" cx="392" cy="511" r="4" fill="#BC622B" style="animation-delay:-2.8600000000000003s"/>
+<circle cx="392" cy="511" r="9" fill="none" stroke="#C5DAD6" stroke-width="1"/>
+<rect x="165" y="280" width="152" height="152" rx="19" fill="#D6F2E8" stroke="#0D826C" stroke-width="2"/>
+<rect x="178" y="293" width="126" height="126" rx="12" fill="#EAF5F1" stroke="#C5DAD6" stroke-width="1.5"/>
+<line x1="154" y1="304" x2="165" y2="304" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="317" y1="304" x2="329" y2="304" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="154" y1="324" x2="165" y2="324" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="317" y1="324" x2="329" y2="324" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="154" y1="344" x2="165" y2="344" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="317" y1="344" x2="329" y2="344" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="154" y1="364" x2="165" y2="364" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="317" y1="364" x2="329" y2="364" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="154" y1="384" x2="165" y2="384" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="317" y1="384" x2="329" y2="384" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="154" y1="404" x2="165" y2="404" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="317" y1="404" x2="329" y2="404" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="190" y1="268" x2="190" y2="280" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="190" y1="432" x2="190" y2="445" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="210" y1="268" x2="210" y2="280" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="210" y1="432" x2="210" y2="445" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="230" y1="268" x2="230" y2="280" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="230" y1="432" x2="230" y2="445" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="250" y1="268" x2="250" y2="280" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="250" y1="432" x2="250" y2="445" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="270" y1="268" x2="270" y2="280" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="270" y1="432" x2="270" y2="445" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="290" y1="268" x2="290" y2="280" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<line x1="290" y1="432" x2="290" y2="445" stroke="#0D826C" stroke-width="3" stroke-linecap="round"/>
+<circle cx="241" cy="356" r="46" fill="none" stroke="#0D826C" stroke-width="1" opacity=".65"/>
+<text x="241" y="376" font-size="74" fill="#0D826C" font-weight="800" text-anchor="middle" letter-spacing="-6">M</text>
+<text x="241" y="402" font-size="9" fill="#526E76" font-weight="700" text-anchor="middle" class="mono" letter-spacing="1.5">NEURAL / SILICON</text>
+<text x="59" y="151" font-size="12" fill="#0D826C" font-weight="700" class="mono" letter-spacing="2">AI</text>
+<text x="421" y="151" font-size="12" fill="#BC622B" font-weight="700" class="mono" text-anchor="end" letter-spacing="2">HW</text>
+<text x="59" y="576" font-size="10" fill="#526E76" font-weight="700" class="mono" letter-spacing=".8">CODE / SYSTEMS / IMPACT</text>
+<rect x="43" y="610" width="396" height="21" rx="7" fill="#EAF5F1" stroke="none" />
+<text x="53" y="625" font-size="10" fill="#0D826C" font-weight="700" class="mono">ONLINE</text>
+<text x="429" y="625" font-size="10" fill="#526E76" font-weight="700" class="mono" text-anchor="end">01 / INTELLIGENT ENGINEERING</text>
+<rect x="477" y="75" width="618" height="569" rx="14" fill="#FFFFFF" stroke="#C5DAD6" />
+<rect x="477" y="75" width="618" height="42" rx="14" fill="#EAF5F1" stroke="#C5DAD6" />
+<rect x="478" y="102" width="616" height="15" rx="0" fill="#EAF5F1" stroke="none" />
+<circle cx="497" cy="96" r="5" fill="#BC622B"/>
+<circle cx="515" cy="96" r="5" fill="#0D826C"/>
+<circle cx="533" cy="96" r="5" fill="#85A2A8"/>
+<text x="555" y="101" font-size="12" fill="#526E76" font-weight="500" class="mono">mahjiid@github: ~/identity</text>
+<text x="1071" y="101" font-size="11" fill="#0D826C" font-weight="700" class="mono" text-anchor="end">●  BUILD MODE</text>
+<text x="501" y="149" font-size="14" fill="#0D826C" font-weight="700" class="mono">&gt; whoami</text>
+<text x="500" y="195" font-size="37" fill="#172D32" font-weight="800" letter-spacing="1.0" class="appear">ABDULMAJEED</text>
+<text x="500" y="234" font-size="37" fill="#172D32" font-weight="800" letter-spacing="1.0" class="appear" style="animation-delay:.13s">ABDULRASHEED</text>
+<text x="501" y="260" font-size="13" fill="#526E76" font-weight="600" class="mono" letter-spacing=".4">// OLASUNKANMI   •   COMPUTER ENGINEER</text>
+<rect x="501" y="276" width="260" height="29" rx="7" fill="#D6F2E8" stroke="#0D826C" stroke-width=".8"/>
+<text x="512" y="296" font-size="12" fill="#0D826C" font-weight="700" class="mono">AI  ×  SOFTWARE  ×  HARDWARE</text>
+<line x1="500" y1="321" x2="1074" y2="321" stroke="#C5DAD6" stroke-width="1" />
+<text x="501" y="349" font-size="14" fill="#0D826C" font-weight="700" class="mono">&gt; cat mission.txt</text>
+<text x="501" y="375" font-size="17" fill="#172D32" font-weight="550" >Building practical, human-centered systems</text>
+<text x="501" y="399" font-size="17" fill="#172D32" font-weight="550" >from prototypes to real-world products.</text>
+<text x="501" y="438" font-size="14" fill="#0D826C" font-weight="700" class="mono">&gt; focus --current</text>
+<text x="501" y="465" font-size="15" fill="#172D32" font-weight="500" class="mono">AI agents   /   Computer vision   /   Automation</text>
+<text x="501" y="491" font-size="14" fill="#172D32" font-weight="500" class="mono">Embedded systems   /   Semiconductor process QA</text>
+<text x="501" y="531" font-size="14" fill="#0D826C" font-weight="700" class="mono">&gt; stack --primary</text>
+<text x="501" y="559" font-size="14" fill="#172D32" font-weight="500" class="mono">Python   TypeScript   React   Node.js   Docker</text>
+<text x="501" y="584" font-size="14" fill="#172D32" font-weight="500" class="mono">OpenCV   PostgreSQL   ESP32   n8n</text>
+<text x="501" y="621" font-size="13" fill="#526E76" font-weight="650" class="mono">mahjiid@github:~$</text>
+<rect x="655" y="608" width="9" height="17" rx="1" fill="#0D826C" stroke="none" class="blink"/>
+<rect x="25" y="660" width="258.25" height="57" rx="10" fill="#FFFFFF" stroke="#C5DAD6" />
+<text x="42" y="684" font-size="13" fill="#0D826C" font-weight="700" class="mono">01</text>
+<text x="42" y="701" font-size="15" fill="#172D32" font-weight="700" letter-spacing=".6">AI + AGENTS</text>
+<circle class="pulse" cx="260" cy="688" r="4" fill="#0D826C" style="animation-delay:-0s"/>
+<rect x="296.25" y="660" width="258.25" height="57" rx="10" fill="#FFFFFF" stroke="#C5DAD6" />
+<text x="313.25" y="684" font-size="13" fill="#0D826C" font-weight="700" class="mono">02</text>
+<text x="313.25" y="701" font-size="15" fill="#172D32" font-weight="700" letter-spacing=".6">SOFTWARE</text>
+<circle class="pulse" cx="531.25" cy="688" r="4" fill="#BC622B" style="animation-delay:-0.7s"/>
+<rect x="567.5" y="660" width="258.25" height="57" rx="10" fill="#FFFFFF" stroke="#C5DAD6" />
+<text x="584.5" y="684" font-size="13" fill="#0D826C" font-weight="700" class="mono">03</text>
+<text x="584.5" y="701" font-size="15" fill="#172D32" font-weight="700" letter-spacing=".6">EMBEDDED</text>
+<circle class="pulse" cx="802.5" cy="688" r="4" fill="#0D826C" style="animation-delay:-1.4s"/>
+<rect x="838.75" y="660" width="258.25" height="57" rx="10" fill="#FFFFFF" stroke="#C5DAD6" />
+<text x="855.75" y="684" font-size="13" fill="#0D826C" font-weight="700" class="mono">04</text>
+<text x="855.75" y="701" font-size="15" fill="#172D32" font-weight="700" letter-spacing=".6">SEMICONDUCTORS</text>
+<circle class="pulse" cx="1073.75" cy="688" r="4" fill="#BC622B" style="animation-delay:-2.0999999999999996s"/>
+<path class="scan" d="M29 639 H455" stroke="#0D826C" stroke-width="2" opacity=".35"/>
+</svg>
